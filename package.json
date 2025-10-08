@@ -1,0 +1,6 @@
+{
+  "name":"ufone-meta-bsp",
+  "version":"1.0.0",
+  "main":"api/webhook.js",
+  "scripts": { "start": "node api/webhook.js" }
+}
